@@ -1,0 +1,42 @@
+body {
+    font-family: Poppins, sans-serif;
+    background-color: #062447;
+}
+
+header img {
+    width: 10%;
+    height: auto;
+}
+
+#left-main img {
+    width: 7%;
+    height: auto;
+}
+
+#left-main p {
+    color: white;
+}
+
+span {
+    color: #ffbc91;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #ffbc91;
+}
+
+button {
+    background-color: #ffbc91;
+    color: #062447;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Poppins;
+}
+
+#right-main img {
+    width: 20%;
+    height: auto;
+    border-radius: 10px;
+}
