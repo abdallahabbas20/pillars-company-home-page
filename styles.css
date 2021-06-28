@@ -25,7 +25,7 @@ header img {
 }
 
 #left-main img {
-    width: 7%;
+    width: 75px;
     height: auto;
 }
 
@@ -65,6 +65,10 @@ header img {
         height: auto;
         padding-left: 0px;
     }
+
+    h1 {
+        font-size: 20px;
+    }
     
 
 }
@@ -83,6 +87,7 @@ span {
 
 h1 {
     color: #ffbc91;
+    font-size: 40px;
 }
 
 button {
