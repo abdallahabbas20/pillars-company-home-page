@@ -48,10 +48,22 @@ header img {
     main {
         flex-wrap: wrap;
         margin-top: 10px;
+        
     }
 
     button {
         margin-bottom: 20px;
+    }
+
+    #left-main  {
+
+        margin-left: 0px;
+    }
+
+    header img {
+        width: 150px;
+        height: auto;
+        padding-left: 0px;
     }
     
 
